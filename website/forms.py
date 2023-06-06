@@ -17,5 +17,3 @@ class InsereFuncioanarioFor(forms.Form)
         required=True,
         max_length=14
     )
-    
-    tempo
